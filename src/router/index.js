@@ -4,6 +4,7 @@ import goods from  '../components/goods/goods.vue'
 import ratings from  '../components/ratings/ratings.vue'
 import seller from  '../components/seller/seller.vue'
 
+
 Vue.use(Router)
 
 export default new Router({
