@@ -16,6 +16,6 @@ new Vue({
   template: '<App/>',
   components: { App }
 })
-router.start({
-  template: App
-}, '#app')
+// router.start({
+//   template: App
+// }, '#app')
