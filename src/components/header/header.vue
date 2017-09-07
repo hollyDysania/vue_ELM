@@ -161,5 +161,5 @@ export default {
         height 100%
         z-index -1
         filter blur(10px)
-    .detail
+
 </style>
